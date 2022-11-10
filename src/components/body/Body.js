@@ -10,10 +10,11 @@ const Body = () => {
     return (
         <div>
             <Routes >
-                <Route path="/" element={<Navigate to="/home" />} exact component={Home} />
+                <Route path='/home' element={<Home />} />
+                <Route path='/' element={<Navigate to='/home' replace />} />
                 <Route path="/menu" exact element={<Menu />} />
                 <Route path="/contact" exact element={<Contact />} />
-                <Route path="/about" exact component={About} />
+                <Route path="/about" exact element={<About />} />
 
             </Routes>
         </div>

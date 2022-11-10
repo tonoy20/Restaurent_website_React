@@ -6,44 +6,8 @@ const DISHES = [
         category: 'meal',
         label: 'HOT',
         price: '199',
+        featured: true,
         description: 'A unique combination of Indian Uttappam (pancake) and Italina pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Panner',
-        comments: [
-            {
-                id: 0,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 1,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 2,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 3,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 4,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            }
-        ]
     },
     {
         id: 1,
@@ -52,44 +16,8 @@ const DISHES = [
         category: 'meal',
         label: 'HOT',
         price: '199',
+        featured: true,
         description: 'A unique combination of Indian Uttappam (pancake) and Italina pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Panner',
-        comments: [
-            {
-                id: 0,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 1,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 2,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 3,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 4,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            }
-        ]
     },
     {
         id: 2,
@@ -98,44 +26,8 @@ const DISHES = [
         category: 'meal',
         label: 'HOT',
         price: '199',
+        featured: true,
         description: 'A unique combination of Indian Uttappam (pancake) and Italina pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Panner',
-        comments: [
-            {
-                id: 0,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 1,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 2,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 3,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 4,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            }
-        ]
     },
     {
         id: 3,
@@ -144,44 +36,8 @@ const DISHES = [
         category: 'meal',
         label: 'HOT',
         price: '199',
+        featured: true,
         description: 'A unique combination of Indian Uttappam (pancake) and Italina pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Panner',
-        comments: [
-            {
-                id: 0,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 1,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 2,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 3,
-                rating: 4,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            },
-            {
-                id: 4,
-                rating: 5,
-                comment: 'Imagine all the eateables, living in confusion',
-                author: 'Shanto',
-                date: "2018-10-16T17:57:28.556094Z"
-            }
-        ]
     }
 ]
 
